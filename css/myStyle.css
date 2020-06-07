@@ -1,0 +1,10 @@
+.text-bold {
+    font-weight: bold;
+}
+.some-space {
+    margin: 30px 0px;
+}
+.my-border {
+    border-bottom: thin solid #cccccc;
+    margin: 15px;
+}
